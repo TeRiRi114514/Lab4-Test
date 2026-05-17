@@ -12,7 +12,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - TeRiRi114514   # 改成你自己的用户名
+  - TeRiRi114514 
 body:
   - type: markdown
     attributes:
