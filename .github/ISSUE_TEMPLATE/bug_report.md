@@ -1,18 +1,9 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - TeRiRi114514 
+  - TeRiRi114514
 body:
   - type: markdown
     attributes:
@@ -66,7 +57,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/teRiri/teRiri/blob/master/CONTRIBUTING.md)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
