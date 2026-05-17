@@ -1,0 +1,5 @@
+# Album
+
+| Nickname |
+|----------|
+| Vergil |
